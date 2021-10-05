@@ -1,6 +1,6 @@
 # MStoreDelivery-Django
 
-A WebApp developed by me and a colleague,for the commercial use of Talanton S.A. 
+A WebApp developed by me and a colleague for the commercial use of Talanton S.A. 
 It is centered around local business and its goal is to get the most from a limited number of delivery guys.
 It is solely developed by python/Django and it uses REST API protocol to comminucate with the mobile application.
 
