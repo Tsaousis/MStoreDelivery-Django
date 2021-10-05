@@ -6,3 +6,5 @@ It is solely developed by python/Django and it uses REST API protocol to comminu
 
 Due to it being commercial, this public repository is in a "broken form" meaning that there are some files missing to avoid the misuse of our product by 3rd parties
 If you want to have further information about this project, you can contact me on kostastsaousis99@gmail.com
+
+For the Mobile App you can have a look here https://github.com/Tsaousis/MStoreDelivery-Flutter
